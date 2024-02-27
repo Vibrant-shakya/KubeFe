@@ -26,3 +26,6 @@ Contributions to the Kubernetes Resource Optimization App are welcome! If you ha
 
 License
 The KubeFe App is licensed under the MIT License. See the LICENSE file for more information.
+
+### 
+Look for this space for future updates
